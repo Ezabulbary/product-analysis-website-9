@@ -1,47 +1,56 @@
 [
     {
         "id": 1,
-        "name": "id labore ex et quam laborum",
-        "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+        "name": "Head Sanders",
+        "comment": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
+        "rating": 3.5
     },
     {
         "id": 2,
-        "name": "quo vero reiciendis velit similique earum",
-        "comment": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+        "name": "Preston Walker",
+        "comment": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
+        "rating": 3
     },
     {
         "id": 3,
-        "name": "odio adipisci rerum aut animi",
-        "comment": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
+        "name": "Sheena Lynch",
+        "comment": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores",
+        "rating": 4
     },
     {
         "id": 4,
-        "name": "alias odio sit",
-        "comment": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+        "name": "Strickland Prince",
+        "comment": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur",
+        "rating": 3.5
     },
     {
         "id": 5,
-        "name": "vero eaque aliquid doloribus et culpa",
-        "comment": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et"
+        "name": "Mia Cameron",
+        "comment": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et",
+        "rating": 4.5
     },
     {
         "id": 6,
-        "name": "et fugit eligendi deleniti quidem qui sint nihil autem",
-        "comment": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in"
+        "name": "Adrian Gould",
+        "comment": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
+        "rating": 4
     },
     {
         "id": 7,
-        "name": "repellat consequatur praesentium vel minus molestias voluptatum",
-        "comment": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor"
+        "name": "Collins Witt",
+        "comment": "maiores sed dolores similique labore et inventore et\nquasi temporibus esse sunt id et\neos voluptatem aliquam\naliquid ratione corporis molestiae mollitia quia et magnam dolor",
+        "rating": 3.5
     },
     {
         "id": 8,
-        "name": "et omnis dolorem",
-        "comment": "ut voluptatem corrupti velit\nad voluptatem maiores\net nisi velit vero accusamus maiores\nvoluptates quia aliquid ullam eaque"
+        "name": "Maldonado Stephenson",
+        "comment": "ut voluptatem corrupti velit\nad voluptatem maiores\net nisi velit vero accusamus maiores\nvoluptates quia aliquid ullam eaque",
+        "rating": 2.4
     },
     {
         "id": 9,
-        "name": "provident id voluptas",
-        "comment": "sapiente assumenda molestiae atque\nadipisci laborum distinctio aperiam et ab ut omnis\net occaecati aspernatur odit sit rem expedita\nquas enim ipsam minus"
+        "name": "Rosario Stephens",
+        "comment": "sapiente assumenda molestiae atque\nadipisci laborum distinctio aperiam et ab ut omnis\net occaecati aspernatur odit sit rem expedita\nquas enim ipsam minus",
+        "rating": 3.5
     }
 ]
