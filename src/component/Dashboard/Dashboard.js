@@ -13,7 +13,7 @@ const Dashboard = () => {
     return (
         <div>
             <h1 className='text-2xl font-bold m-4 text-center'>This is my Salary Charts</h1>
-            <div className='grid grid-cols-1 xl:grid-cols-2 justify-evenly items-center gap-8 m-20'>
+            <div className='grid grid-cols-1 xl:grid-cols-2 justify-evenly items-center md:gap-8 m-20'>
                 <div className='m-10'>
                     <LineChart width={600} height={250} data={recharts}>
                         <Line type="monotone" dataKey="revenue" stroke="#8884d8" />

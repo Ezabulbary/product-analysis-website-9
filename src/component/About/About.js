@@ -4,7 +4,7 @@ const About = () => {
     return (
         <div>
             <p className='text-6xl m-14'>About Us</p>
-            <div className='border-2 border-black rounded-md bg-gray-300 mx-32 p-20'>
+            <div className='border-2 border-black rounded-md bg-gray-300 m-5 md:mx-32 p-5 md:p-20'>
                 <p className='text-justify'>The value of designer sneakers is unquestionable: Sneakers offer a level of style, versatility, and comfort that other casual shoes can't match. Now, you're just as likely to see the best trendy sneakers in the office as you are in the gym. Match them with a pair of jeans for an elegant casual look, or dress them up with a suit for a business casual style.With luxury sneakers, you're getting premium fabrics and materials from high-end designers and luxury brands. They can be expensive, yes. But you're getting a level of attention to detail and craftsmanship that mass-market brands can't deliver.</p>
 
                 <br />
